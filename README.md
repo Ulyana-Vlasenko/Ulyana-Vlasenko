@@ -21,33 +21,35 @@
 ❤️ _Умею слушать, поддерживать и вдохновлять._ ❤️ 
 </div align="center"> 
 
-
+<div align="center"> 
 # Связаться со мной📩
 
 📝 [CV]()
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zikfridnibelung@gmail.ru)
+</div align="center"> 
 
-
+<div align="center"> 
 # 💎Тестовые артефакты💎
 
-✅ [Теория тестирования](https://github.com/Ulyana-Vlasenko/Theory)
+⭐ [Теория тестирования](https://github.com/Ulyana-Vlasenko/Theory) ⭐
 
-✅ [Техники тест-дизайна](https://github.com/Ulyana-Vlasenko/Design)
+⭐ [Техники тест-дизайна](https://github.com/Ulyana-Vlasenko/Design) ⭐
 
-✅ [Работа с тестовой документацией](https://github.com/Ulyana-Vlasenko/docs)
+⭐ [Работа с тестовой документацией](https://github.com/Ulyana-Vlasenko/docs) ⭐
 
-✅ [Тестирование веб-приложений](https://github.com/Ulyana-Vlasenko/Web)
+⭐ [Тестирование веб-приложений](https://github.com/Ulyana-Vlasenko/Web) ⭐
 
-✅ [Тестирование мобильных приложений](https://github.com/Ulyana-Vlasenko/mobile)
+⭐ [Тестирование мобильных приложений](https://github.com/Ulyana-Vlasenko/mobile) ⭐
 
-✅ [Тестирование API](https://github.com/Ulyana-Vlasenko/api)
+⭐ [Тестирование API](https://github.com/Ulyana-Vlasenko/api) ⭐
 
-✅ [Работа с базами данных](https://github.com/Ulyana-Vlasenko/database)
+⭐ [Работа с базами данных](https://github.com/Ulyana-Vlasenko/database) ⭐
 
-✅ [Работа с git и bash](https://github.com/Ulyana-Vlasenko/git_bash)
+⭐ [Работа с git и bash](https://github.com/Ulyana-Vlasenko/git_bash) ⭐
+</div align="center"> 
 
-
+<div align="center"> 
 # ⚔️ Мой арсенал тестирования
 
 ### 📁 Тестовая документация
@@ -94,7 +96,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
 </div>
-
+</div align="center"> 
 ---
 
 ### <div align="center"> 🕊 Социальные сети</div>
