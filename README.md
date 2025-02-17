@@ -22,12 +22,13 @@
 </div align="center"> 
 
 ---
-### 📝 CV
+# 📝 CV
 ### You can find my CV [here]()
 ### [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zikfridnibelung@gmail.ru)
 
 
-### 💎 Тестовые артефакты:
+# 💎 Тестовые артефакты:
+
 ✅ [Теория тестирования](https://github.com/Ulyana-Vlasenko/Theory)
 
 ✅ [Техники тест-дизайна](https://github.com/Ulyana-Vlasenko/Design)
@@ -41,6 +42,7 @@
 ✅ [Работа с базами данных](https://github.com/Ulyana-Vlasenko/database)
 
 ✅ [Работа с git и bash](https://github.com/Ulyana-Vlasenko/git_bash)
+
 ---
 ### ⚔️ Мой арсенал тестирования:
 
