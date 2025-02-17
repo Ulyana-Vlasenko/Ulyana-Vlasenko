@@ -93,7 +93,7 @@ __________
 </div>
 
 
-# <div align="center"> 🕊 Социальные сети:</div>
+### <div align="center"> 🕊 Социальные сети:</div>
 
 <div align="center">
   <div id="badges">
