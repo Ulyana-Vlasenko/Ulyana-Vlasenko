@@ -44,9 +44,7 @@
 ✅ [Работа с git и bash](https://github.com/Ulyana-Vlasenko/git_bash)
 
 ---
-### ⚔️ Мой арсенал тестирования:
-
----
+# ⚔️ Мой арсенал тестирования:
 
 ### 📁 Тестовая документация:
 
@@ -59,7 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
 
-
 ### 🌐 Тестирование веб-приложений:
 
 <div>
@@ -67,7 +64,6 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsDdEMpUiHgPLNvf2NyWsgNuCQcbETfQ_clQ&s" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4q2KTFwfgdsfd2mzAeLKuyuwWALpaoBjlA&s" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
-
 
 ### 📱 Тестирование мобильных приложений:
 
@@ -79,7 +75,6 @@
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
 
-
 ### 💾 Работа с данными:
 
 <div>
@@ -87,7 +82,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhrLLKEQNE9jnocQjMdrtsVIZqLCe0CTWkow&s" title="dbeaver" alt="dbeaver" width="40" height="40"/>&nbsp
 </div>
-
 
 ### ✏️ Работа с кодом:
 
@@ -99,7 +93,7 @@
 
 ---
 
-### 🤝 Социальные сети:
+# <div align="center">🤝 Социальные сети:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/ulyana-vlasenko/" target="_blank">
@@ -112,4 +106,4 @@
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ulyana-Vlasenko)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ulyana-Vlasenko)</div>
