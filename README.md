@@ -22,8 +22,8 @@
 </div align="center"> 
 
 
-# 📝 CV
-## You can find my CV [here]()
+# 📝 [CV]()
+
 # [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zikfridnibelung@gmail.ru)
 
 
