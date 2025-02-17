@@ -26,6 +26,21 @@
 ### You can find my CV [here]()
 ### [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zikfridnibelung@gmail.ru)
 
+
+### 💎 Тестовые артефакты:
+✅ [Теория тестирования](https://github.com/Ulyana-Vlasenko/Theory)
+
+✅ [Техники тест-дизайна](https://github.com/Ulyana-Vlasenko/Design)
+
+✅ [Работа с тестовой документацией](https://github.com/Ulyana-Vlasenko/docs)
+
+✅ [Тестирование веб-приложений](https://github.com/Ulyana-Vlasenko/Web)
+
+✅ [Тестирование API](https://github.com/Ulyana-Vlasenko/api)
+
+✅ [Работа с базами данных](https://github.com/Ulyana-Vlasenko/database)
+
+✅ [Работа с git и bash](https://github.com/Ulyana-Vlasenko/git_bash)
 ---
 ### ⚔️ Мой арсенал тестирования:
 
@@ -42,7 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
 
----
 
 ### 🌐 Тестирование веб-приложений:
 
@@ -52,7 +66,6 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4q2KTFwfgdsfd2mzAeLKuyuwWALpaoBjlA&s" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
----
 
 ### 📱 Тестирование мобильных приложений:
 
@@ -65,8 +78,6 @@
 </div>
 
 
----
-
 ### 💾 Работа с данными:
 
 <div>
@@ -75,7 +86,6 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhrLLKEQNE9jnocQjMdrtsVIZqLCe0CTWkow&s" title="dbeaver" alt="dbeaver" width="40" height="40"/>&nbsp
 </div>
 
----
 
 ### ✏️ Работа с кодом:
 
@@ -84,23 +94,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
 </div>
-
----
-### 💎 Тестовые артефакты:
-✅ [Теория тестирования](https://github.com/Ulyana-Vlasenko/Theory)
-
-✅ [Техники тест-дизайна](https://github.com/Ulyana-Vlasenko/Design)
-
-✅ [Работа с тестовой документацией](https://github.com/Ulyana-Vlasenko/docs)
-
-✅ [Тестирование веб-приложений](https://github.com/Ulyana-Vlasenko/Web)
-
-✅ [Тестирование API](https://github.com/Ulyana-Vlasenko/api)
-
-✅ [Работа с базами данных](https://github.com/Ulyana-Vlasenko/database)
-
-✅ [Работа с git и bash](https://github.com/Ulyana-Vlasenko/git_bash)
-
 
 ---
 
