@@ -22,8 +22,8 @@
 </div align="center"> 
 
 
-# 📝 [CV]()
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zikfridnibelung@gmail.ru)
+# 📝 Вы можете познакомиться с моим резюме: [CV]()
+И написать мне: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zikfridnibelung@gmail.ru)
 
 
 # 💎 Тестовые артефакты 💎
