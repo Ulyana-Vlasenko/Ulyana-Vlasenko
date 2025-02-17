@@ -27,7 +27,7 @@
 ### [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zikfridnibelung@gmail.ru)
 
 
-# 💎 Тестовые артефакты:
+# 💎 Тестовые артефакты 💎
 
 ✅ [Теория тестирования](https://github.com/Ulyana-Vlasenko/Theory)
 
@@ -43,7 +43,7 @@
 
 ✅ [Работа с git и bash](https://github.com/Ulyana-Vlasenko/git_bash)
 
----
+
 # ⚔️ Мой арсенал тестирования:
 
 ### 📁 Тестовая документация:
@@ -103,7 +103,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
-
+</div>
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ulyana-Vlasenko)</div>
+<div align="center">![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ulyana-Vlasenko)</div>
