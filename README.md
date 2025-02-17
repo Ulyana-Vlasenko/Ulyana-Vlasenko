@@ -1,4 +1,4 @@
-# <div align="center">Welcome to My QA Universe🐞</div>
+# <div align="center">*Welcome to My QA Universe*🐞</div>
 
 ### <div align="center">_**Архитектор надежности, строящий мосты между требованиями и реальностью**_</div>
 
