@@ -1,5 +1,5 @@
 # Привет! Меня зовут Ульяна🐞
-## 🌐Архитектор надежности, строящий мосты между требованиями и реальностью🌐
+## _Архитектор надежности, строящий мосты между требованиями и реальностью_
 ## Welcome to My QA Universe🚀
 
 ---
@@ -21,6 +21,11 @@
 
 🤝 Командный игрок: _Умею слушать, поддерживать и вдохновлять._
 </div align="center"> 
+
+---
+### 📝 CV
+### You can find my CV [here]()
+### [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zikfridnibelung@gmail.ru)
 
 ---
 ### ⚔️ Мой арсенал тестирования:
@@ -92,9 +97,6 @@
 - [Работа с git и bash](https://github.com/Ulyana-Vlasenko/git_bash)
 
 ---
-### 📝 CV
-### You can find my CV [here]()
-### [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zikfridnibelung@gmail.ru)
 
 ### 🤝 Социальные сети:
 
