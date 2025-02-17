@@ -28,27 +28,25 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zikfridnibelung@gmail.ru)
 
-<div align="center"> 
 
 
 # 💎Тестовые артефакты💎
 
-⭐ [Теория тестирования](https://github.com/Ulyana-Vlasenko/Theory) ⭐
+⭐ [Теория тестирования](https://github.com/Ulyana-Vlasenko/Theory) 
 
-⭐ [Техники тест-дизайна](https://github.com/Ulyana-Vlasenko/Design) ⭐
+⭐ [Техники тест-дизайна](https://github.com/Ulyana-Vlasenko/Design) 
 
-⭐ [Работа с тестовой документацией](https://github.com/Ulyana-Vlasenko/docs) ⭐
+⭐ [Работа с тестовой документацией](https://github.com/Ulyana-Vlasenko/docs) 
 
-⭐ [Тестирование веб-приложений](https://github.com/Ulyana-Vlasenko/Web) ⭐
+⭐ [Тестирование веб-приложений](https://github.com/Ulyana-Vlasenko/Web) 
 
-⭐ [Тестирование мобильных приложений](https://github.com/Ulyana-Vlasenko/mobile) ⭐
+⭐ [Тестирование мобильных приложений](https://github.com/Ulyana-Vlasenko/mobile) 
 
-⭐ [Тестирование API](https://github.com/Ulyana-Vlasenko/api) ⭐
+⭐ [Тестирование API](https://github.com/Ulyana-Vlasenko/api) 
 
-⭐ [Работа с базами данных](https://github.com/Ulyana-Vlasenko/database) ⭐
+⭐ [Работа с базами данных](https://github.com/Ulyana-Vlasenko/database) 
 
-⭐ [Работа с git и bash](https://github.com/Ulyana-Vlasenko/git_bash) ⭐
-</div align="center"> 
+⭐ [Работа с git и bash](https://github.com/Ulyana-Vlasenko/git_bash) 
 
 
 # ⚔️ Мой арсенал тестирования
