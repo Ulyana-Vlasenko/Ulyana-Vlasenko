@@ -3,7 +3,7 @@
 ### <div align="center">_Архитектор надежности, строящий мосты между требованиями и реальностью_</div>
 
 <div align="center">
-  <img src="https://i.gifer.com/3WYE.gif" width="600" height="300"/>
+  <img src="https://tenor.com/ru/view/coding-typing-pc-laptop-power-gif-21599707" width="600" height="300"/>
 </div>
 
 <div align="center"> 
