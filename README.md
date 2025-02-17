@@ -1,6 +1,6 @@
-# <div align="center">**Welcome to My QA Universe**🐞</div>
+# <div align="center">Welcome to My QA Universe🐞</div>
 
-### <div align="center">_**Архитектор надежности, строящий мосты между требованиями и реальностью**_</div>
+### <div align="center">_Архитектор надежности, строящий мосты между требованиями и реальностью_</div>
 
 <div align="center">
   <img src="https://i.gifer.com/3WYE.gif" width="600" height="300"/>
