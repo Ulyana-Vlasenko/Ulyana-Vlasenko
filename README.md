@@ -28,6 +28,8 @@ _Умею слушать, поддерживать и вдохновлять._
 
 __________
 
+# Связаться со мной✉️: 
+
 ### 📝 [CV]()
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zikfridnibelung@gmail.ru)
