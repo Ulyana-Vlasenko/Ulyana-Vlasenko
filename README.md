@@ -23,10 +23,9 @@
 
 __________
 
-### 📝 
-Вы можете познакомиться с моим резюме: [CV]()
+### 📝 [CV]()
 
-И написать мне: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zikfridnibelung@gmail.ru)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zikfridnibelung@gmail.ru)
 
 
 # 💎 Тестовые артефакты 💎
