@@ -1,4 +1,4 @@
-# <div align="center"> Привет! Меня зовут Ульяна <img src="https://img.icons8.com/?size=512&id=JdpV0QAmt2ap&format=png" width="25" height="25" ></div>
+# <div align="center"> Привет! Меня зовут Ульяна <img src="https://img.icons8.com/?size=512&id=rodFxEp6CGgN&format=png" width="30" height="30"</div>
 
 ### <div align="center"> _Архитектор надежности, строящий мосты между требованиями и реальностью_</div>
 ### <div align="center"> Welcome to My QA Universe</div>
