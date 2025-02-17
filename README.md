@@ -103,7 +103,7 @@
 ✅ [Работа с git и bash](https://github.com/Ulyana-Vlasenko/git_bash)
 
 <div align="center">
-  <img src="file:///E:/QA%20%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE%20%D1%83%D1%87%D0%B5%D0%B1%D1%8B/%D0%94%D0%97%20%D0%A2%D0%95%D0%A1%D0%A2%D0%98%D0%A0%D0%9E%D0%92%D0%9F%D0%9D%D0%98%D0%AF%20(%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B0%D1%8F%20%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)/git%20and%20bash/github-snake.svg"/>
+  <img src="github-snake.svg](https://github.com/Ulyana-Vlasenko/Ulyana-Vlasenko/blob/main/github-snake.svg)"/>
 </div>
 
 ---
