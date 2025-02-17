@@ -1,4 +1,6 @@
 # <div align="center"> Привет! Меня зовут Ульяна🐞</div>
+
+---
 ## <div align="center"> _Архитектор надежности, строящий мосты между требованиями и реальностью_</div>
 ## <div align="center"> Welcome to My QA Universe</div>
 
@@ -87,14 +89,14 @@
 </div>
 
 ---
-### ⭐ Тестовые артефакты:
-- [Теория тестирования](https://github.com/Ulyana-Vlasenko/Theory)
-- [Техники тест-дизайна](https://github.com/Ulyana-Vlasenko/Design)
-- [Работа с тестовой документацией](https://github.com/Ulyana-Vlasenko/docs)
-- [Тестирование веб-приложений](https://github.com/Ulyana-Vlasenko/Web)
-- [Тестирование API](https://github.com/Ulyana-Vlasenko/api)
-- [Работа с базами данных](https://github.com/Ulyana-Vlasenko/database)
-- [Работа с git и bash](https://github.com/Ulyana-Vlasenko/git_bash)
+### 💎 Тестовые артефакты:
+✅ [Теория тестирования](https://github.com/Ulyana-Vlasenko/Theory)
+✅ [Техники тест-дизайна](https://github.com/Ulyana-Vlasenko/Design)
+✅ [Работа с тестовой документацией](https://github.com/Ulyana-Vlasenko/docs)
+✅ [Тестирование веб-приложений](https://github.com/Ulyana-Vlasenko/Web)
+✅ [Тестирование API](https://github.com/Ulyana-Vlasenko/api)
+✅ [Работа с базами данных](https://github.com/Ulyana-Vlasenko/database)
+✅ [Работа с git и bash](https://github.com/Ulyana-Vlasenko/git_bash)
 
 ---
 
