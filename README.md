@@ -3,7 +3,7 @@
 ### <div align="center">_Архитектор надежности, строящий мосты между требованиями и реальностью_</div>
 
 <div align="center">
-  <img src="https://c.tenor.com/ITc1hNBSH_wAAAAd/tenor.gif" width="600" height="300"/>
+  <img src="https://c.tenor.com/ITc1hNBSH_wAAAAd/tenor.gif" width="600" height="600"/>
 </div>
 
 <div align="center"> 
