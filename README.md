@@ -27,7 +27,7 @@ _Умею слушать, поддерживать и вдохновлять._ �
 </div align="center"> 
 
 
-# Связаться со мной📩:
+# Связаться со мной📩
 
 📝 [CV]()
 
@@ -53,9 +53,9 @@ _Умею слушать, поддерживать и вдохновлять._ �
 ✅ [Работа с git и bash](https://github.com/Ulyana-Vlasenko/git_bash)
 
 
-# ⚔️ Мой арсенал тестирования:
+# ⚔️ Мой арсенал тестирования
 
-### 📁 Тестовая документация:
+### 📁 Тестовая документация
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -66,7 +66,7 @@ _Умею слушать, поддерживать и вдохновлять._ �
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
 
-### 🌐 Тестирование веб-приложений:
+### 🌐 Тестирование веб-приложений
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -74,7 +74,7 @@ _Умею слушать, поддерживать и вдохновлять._ �
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4q2KTFwfgdsfd2mzAeLKuyuwWALpaoBjlA&s" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
-### 📱 Тестирование мобильных приложений:
+### 📱 Тестирование мобильных приложений
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -84,7 +84,7 @@ _Умею слушать, поддерживать и вдохновлять._ �
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
 
-### 💾 Работа с данными:
+### 💾 Работа с данными
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -92,7 +92,7 @@ _Умею слушать, поддерживать и вдохновлять._ �
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhrLLKEQNE9jnocQjMdrtsVIZqLCe0CTWkow&s" title="dbeaver" alt="dbeaver" width="40" height="40"/>&nbsp
 </div>
 
-### ✏️ Работа с кодом:
+### ✏️ Работа с кодом
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -102,7 +102,7 @@ _Умею слушать, поддерживать и вдохновлять._ �
 
 ---
 
-### <div align="center"> 🕊 Социальные сети:</div>
+### <div align="center"> 🕊 Социальные сети</div>
 
 <div align="center">
   <div id="badges">
