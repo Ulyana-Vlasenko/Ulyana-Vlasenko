@@ -3,7 +3,7 @@
 ### <div align="center">_Архитектор надежности, строящий мосты между требованиями и реальностью_</div>
 
 <div align="center">
-  <img src="https://tenor.com/ru/view/coding-typing-pc-laptop-power-gif-21599707"/>
+  <img src="(https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif"/>
 </div>
 
 <div align="center"> 
