@@ -3,7 +3,7 @@
 ### <div align="center">_Архитектор надежности, строящий мосты между требованиями и реальностью_</div>
 
 <div align="center">
-  <img src="https://i.gifer.com/3WYE.gif" width="600" height="300"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9afe0493484903.5e66500f8dea4.gif" width="600" height="300"/>
 </div>
 
 <div align="center"> 
