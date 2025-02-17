@@ -21,7 +21,7 @@
 ❤️ Командный игрок: _Умею слушать, поддерживать и вдохновлять._
 </div align="center"> 
 
----
+
 # 📝 CV
 ### You can find my CV [here]()
 ### [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zikfridnibelung@gmail.ru)
