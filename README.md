@@ -113,4 +113,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ulyana-Vlasenko)
 
-
+&nbsp;
+![Snake animation](https://github.com/Ulyana-Vlasenko/Ulyana-Vlasenko/blob/main/github-snake.svg)
+&nbsp;
+&nbsp;
