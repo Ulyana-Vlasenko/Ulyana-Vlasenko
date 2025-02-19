@@ -22,10 +22,10 @@
 </div align="center"> 
 
 
-# 📑 Ознакомиться с моим [CV]() 📑
+## 📑 Ознакомиться с моим [CV]() 📑
 
 
-# 💎Тестовые артефакты💎
+## 💎Тестовые артефакты💎
 
 ⭐ [Теория тестирования](https://github.com/Ulyana-Vlasenko/Theory) 
 
@@ -44,7 +44,7 @@
 ⭐ [Работа с git и bash](https://github.com/Ulyana-Vlasenko/git_bash) 
 
 
-# ⚔️ Мой арсенал тестирования ⚔️
+## ⚔️ Мой арсенал тестирования ⚔️
 
 <div align="center"> 
 
