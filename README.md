@@ -22,11 +22,9 @@
 </div align="center"> 
 
 
-# Связаться со мной📩
+# 📑 Ознакомиться с моим CV 📑
 
-📝 [CV]()
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zikfridnibelung@gmail.ru)
+## [CV]()
 
 
 # 💎Тестовые артефакты💎
