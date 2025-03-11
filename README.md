@@ -71,8 +71,4 @@
 &nbsp;
 ![Snake animation](https://github.com/Ulyana-Vlasenko/Ulyana-Vlasenko/blob/main/github-snake.svg)
 &nbsp;
-<<<<<<< HEAD
----
-=======
-&nbsp;
->>>>>>> 8f01ea956d0ffcf8f83c3fed84aff018d4ac4fda
+
