@@ -22,9 +22,6 @@
 </div align="center"> 
 
 
-## 📑 Ознакомиться с моим [CV](https://github.com/Ulyana-Vlasenko/Ulyana-Vlasenko/blob/main/Ulyana%20Vlasenko%20-%20Resume.pdf) 📑
-
-
 ## 💎Тестовые артефакты💎
 
 ⭐ [Теория тестирования](https://github.com/Ulyana-Vlasenko/Theory) 
