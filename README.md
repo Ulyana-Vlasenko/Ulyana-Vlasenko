@@ -43,7 +43,7 @@
 
 ## ⚔️ Мой арсенал тестирования ⚔️
 
-<div align="center"> 
+
 
 <div style="display: flex; flex-wrap: nowrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
