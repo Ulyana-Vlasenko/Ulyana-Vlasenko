@@ -45,28 +45,13 @@
 
 </div align="center">
 
-<div style="display: flex; flex-wrap: nowrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluent/600/testrail.png" title="testrail" alt="tetstrail" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqrqXxW65W4Djab6xULDxbOB17-i_MQX1Iog&s" title="test-it" alt="test-it" width="40" height="40"/>
-  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsDdEMpUiHgPLNvf2NyWsgNuCQcbETfQ_clQ&s" title="postman" alt="postman" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4q2KTFwfgdsfd2mzAeLKuyuwWALpaoBjlA&s" title="soapui" alt="soapui" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa5hkS9doj1yavaS6Oesv8uX3PWwZ2RfOygw&s" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>
-  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>
-  <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhrLLKEQNE9jnocQjMdrtsVIZqLCe0CTWkow&s" title="dbeaver" alt="dbeaver" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
-</div>
+| Категория | Инструменты |
+|-----------|------------|
+| 📄 Тестовая документация | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![YouTrack](https://img.shields.io/badge/-YouTrack-CC317C?style=flat-square&logo=youtrack&logoColor=white) ![TestRail](https://img.shields.io/badge/-TestRail-00A300?style=flat-square) ![Test IT](https://img.shields.io/badge/-Test_IT-0052CC?style=flat-square&color=0052CC&logoColor=white) ![Qase](https://img.shields.io/badge/-Qase-232F3E?style=flat-square) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| 🛠 Тестирование веб-приложений | ![DevTools](https://img.shields.io/badge/-DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![SoapUI](https://img.shields.io/badge/-SoapUI-6DB33F?style=flat-square) |
+| 📱 Тестирование мобильных приложений | ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white) ![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-555555?style=flat-square) ![Fiddler](https://img.shields.io/badge/-Fiddler-008000?style=flat-square) ![Proxyman](https://img.shields.io/badge/-Proxyman-6E5494?style=flat-square) |
+| 💾 Работа с данными | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| ✏️ Работа с кодом | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 </div align="center">
 
